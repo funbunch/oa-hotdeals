@@ -1,0 +1,2 @@
+# oa-hotdeals
+Flash Email
